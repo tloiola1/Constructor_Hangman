@@ -1,0 +1,24 @@
+{
+  "name": "Constructor_Hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tloiola1/Constructor_Hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tloiola1/Constructor_Hangman/issues"
+  },
+  "homepage": "https://github.com/tloiola1/Constructor_Hangman#readme",
+  "dependencies": {
+    "coloring": "^0.1.0",
+    "inquirer": "^3.3.0"
+  }
+}
