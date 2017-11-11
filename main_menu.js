@@ -1,6 +1,5 @@
 var fs = require('fs');
 var game = require('./game');
-var isWinner = require('./isWinner');
 
 
 function main_menu(){
